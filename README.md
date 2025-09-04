@@ -28,6 +28,13 @@ If it matches, the player wins | If it’s too high, the computer says “lower.
 
 4️⃣ Finally, if all attempts run out, the computer reveals its secret number… and declares victory over the challenger.
 
+
+## Why I am making this?
+
+beacuase: https://roadmap.sh/projects/number-guessing-game
+
+that it, the only reason!
+
 ## Final Thoughts!
 
 So, dear adventurers, this isn’t just a guessing game… it’s a battle of wits between human and machine.
