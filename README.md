@@ -43,3 +43,6 @@ Are you ready to play, to test your luck, and to outsmart the computer? Step for
 & I hope this helps you in your career ahead!
 
 <img width="503" height="496" alt="image" src="https://github.com/user-attachments/assets/34a3b11e-c520-486c-84c9-1c975ca14e44" />
+
+
+/n https://roadmap.sh/projects/number-guessing-game/solutions?u=65bdf31d0c54812283845555 -> like this OR get 5 years of unemployment! Your Choice. Bye.
